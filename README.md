@@ -23,3 +23,9 @@ fizzbuzz: 1
 lucky: 2
 integer: 10
 ```
+
+## Run
+
+```
+mvn clean test exec:java
+```
