@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/PauloPortugal/real-fizzbuzz-java.png)](https://travis-ci.org/PauloPortugal/real-fizzbuzz-java.svg?branch=master)
+
 # The Real FizzBuzz in Java
 
 Prints out the following for a contiguous range of numbers:
