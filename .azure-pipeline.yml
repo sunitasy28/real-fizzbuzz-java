@@ -6,4 +6,3 @@ jobs:
 - job: B
   steps:
   - bash: echo "B"
-
