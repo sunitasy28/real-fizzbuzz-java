@@ -1,8 +1,12 @@
 jobs:
-- job: A
+- job: build
   steps:
-  - bash: mvn clean
+  - bash: mvn install
 
-- job: B
+- job: test
   steps:
   - bash: mvn test
+  
+deploy- job: test
+  steps:
+  - bash: mvn deploy
